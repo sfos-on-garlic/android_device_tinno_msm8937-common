@@ -250,7 +250,7 @@ TARGET_INIT_VENDOR_LIB := libinit.tinno_8937
 TARGET_RECOVERY_DEVICE_MODULES := libinit.tinno_8937
 
 # Vendor Security Patch Level
-VENDOR_SECURITY_PATCH := 2021-01-01
+VENDOR_SECURITY_PATCH := 2099-01-01
 
 # Wifi
 BOARD_HAS_QCOM_WLAN              := true

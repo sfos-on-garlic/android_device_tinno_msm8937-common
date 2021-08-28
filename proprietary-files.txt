@@ -1,19 +1,19 @@
-# ADSP - from daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM
-vendor/bin/adsprpcd|a5e878691577485c9f7ee33dfe02384a13f0a265
-vendor/lib/libadsprpc.so|e00e8dcb88e9b204fd90bb2c32afcc7fa28dbad1
-vendor/lib/libadsp_default_listener.so|c9a1ee00b32a93a9496ec84393afa0625e929eed
-vendor/lib/libfastcvadsp_stub.so|996345605e1d631151a6b4e9cd9f65b2c7e82dac
-vendor/lib/libfastcvopt.so|2df00c3827fe1db322084cb3935241f17d1532f4
-vendor/lib/libmdsprpc.so|642f74bfec1098397c7ee025e0744badbf14fc39
-vendor/lib/libsdsprpc.so|2963c73745b8b1ccab64260ce93e3679c7c66113
-vendor/lib64/libadsprpc.so|3dd28423f6b786584a1c80b2cdb6e22a1c00b0ae
-vendor/lib64/libadsp_default_listener.so|d7436ae6255671b4c3af533b5c89d91d75d5069e
-vendor/lib64/libfastcvadsp_stub.so|f101b66fa4a450b5af2e6aa9f7aaa28f9a876005
-vendor/lib64/libfastcvopt.so|f5e25aa055a57e23530b858bf7dd204a6009effc
-vendor/lib64/libmdsprpc.so|38de6a53d3c2ff60a253c7c6a0d3b46962e8e194
-vendor/lib64/libsdsprpc.so|1e89a33bae491abe4c81bb77c8fabf59bff4b853
+# ADSP - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
+vendor/bin/adsprpcd|b736b00857d64e74a3b9be887215124d186f95d5
+vendor/lib/libadsprpc.so|5d784c9f1ff7845b04ecba1c2592aad29ff53f7b
+vendor/lib/libadsp_default_listener.so|7bed67d442ce79de62b9a6ba398df321ef6b7397
+vendor/lib/libfastcvadsp_stub.so|70772d0bc39617430e27a21f89fccd93cc757185
+vendor/lib/libfastcvopt.so|151040b1e9a4d78e4a66654a2f09af6ffd6e679d
+vendor/lib/libmdsprpc.so|7ece3d6d2f987a6042d581f5eab7f6271e712965
+vendor/lib/libsdsprpc.so|eb4981427c163bd6cd1eed6c2dbe364da3c1a883
+vendor/lib64/libadsprpc.so|e1fe0a21169d116f6996070a097b530f758ceabd
+vendor/lib64/libadsp_default_listener.so|0324e797f6fdd15680df7fdacc51f713e40b9806
+vendor/lib64/libfastcvadsp_stub.so|f4535845bc4f40e3cb8e79d090e5ed87b0acfbb0
+vendor/lib64/libfastcvopt.so|03da360f22884667c9110ff2384f8dca35e32671
+vendor/lib64/libmdsprpc.so|c0b5cf2e733829cd7d8ba0c3133cb115511b5dc5
+vendor/lib64/libsdsprpc.so|2a93a07babf8a604fefa26603c3aca03df4153aa
 
-# ADSP modules - from daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM
+# ADSP modules - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
 vendor/lib/rfsa/adsp/libscveT2T_skel.so|91b9200dbb982abf0d6b440668252d892a616f66
 vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so|944169db3ac67056b92ef4f850f69346958370b5
 vendor/lib/rfsa/adsp/libapps_mem_heap.so|5c82ad9cfe3f30105d899e2a4e90cc7566f81252
@@ -21,68 +21,70 @@ vendor/lib/rfsa/adsp/libdspCV_skel.so|628985174b0088bed21c866d7984d23855e5e150
 vendor/lib/rfsa/adsp/libfastcvadsp.so|9818625bfa018f517e32a8f4a1e7fb4b255e5049
 vendor/lib/rfsa/adsp/libfastcvadsp_skel.so|1ff4a48009e88435d93fd2b9b0c5ea59cedbb4f7
 
-# Audio - from daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM
-vendor/bin/audioflacapp|a8ae278497715aa53f6fb86d5f5af225da0fc5b0
-vendor/lib/libacdb-fts.so|9fb9fe8f1e22e38e41f1517b8f206a50bbb24419
-vendor/lib/libacdbloader.so|f33941720463b3c8215fc644b7d638c6d8ab74c7
-vendor/lib/libacdbrtac.so|f997dfef5413873af88bd8636a501401e9ea9631
-vendor/lib/libadiertac.so|6cfa3c70f01617a944ed2d8512189400ccdec21e
-vendor/lib/libadm.so|b373d5cb6e4c6e081f1d206f6d9538339f330fda
-vendor/lib/libaudcal.so|8c4d9a610c5cce20dee9721feb4864ea2470caf2
-vendor/lib/libaudioalsa.so|1455df26b622c518c04d7f54746683ed96aaa74f
-vendor/lib/libaudioconfigstore.so|5b4d7d4f6840f65c1c630578fb3611d9ce47e268
-vendor/lib/libaudioparsers.so|4b980c4392b6e800fb23213a0daaa83b35c04051
--vendor/lib/libaudio_log_utils.so|7fb2bb0abd10ca763ae5d079a8070e9d3d493bf9
-vendor/lib/libdrc.so|55fc13d205ce3199de2cf1f9c1dab479909c15be
-vendor/lib/libqtigef.so|fbedb509c61ff1a7d6e9c4a099af346ca781430a
-vendor/lib/libsurround_3mic_proc.so|d8c1d2cb7d598eee79ccfe5b7ec83a185c8fef6c
-vendor/lib/libtinycompress_vendor.so|4991b78d9ed12b828ceeaf61e5cde6328eb944b9
-vendor/lib/soundfx/libaudiopreprocessing.so|948f18c576254144f48e9051be28e7d23f8562cc
-vendor/lib/soundfx/libqcbassboost.so|bc8ae80ff1ade557ff494631494c2f8261028acb
-vendor/lib/soundfx/libqcreverb.so|1b3cef3c4c9145662fddb03c5e1e7dd3a4f25e1e
-vendor/lib/soundfx/libqcvirt.so|41bf71787ffae3f511d9cb3e32b9e721a0a2e385
-vendor/lib64/libacdb-fts.so|662467af62f9607abfd5acb532dfbf69240bcc70
-vendor/lib64/libacdbloader.so|7c49e7d95090e20f6198f03959323359e4b2ed19
-vendor/lib64/libacdbrtac.so|54d114f280eb99f4aa73890c5e9cfbb5b55eb813
-vendor/lib64/libadiertac.so|5b511a0312721e9e6ff27fae9a3f035cf66ac6f7
-vendor/lib64/libaudcal.so|a2788d71d00be193e9704edefc1b363cbc847942
-vendor/lib64/libaudioalsa.so|0a8f0746cc8fd381d001f52c7eb4460951802ac4
-vendor/lib64/libaudioconfigstore.so|a862e94f4fc75ce3c3274f219be8c128fe58a822
-vendor/lib64/libaudioparsers.so|67f6836de4391c33cc030faa5c885ab250324291
--vendor/lib64/libaudio_log_utils.so|3670ed70e68b209f67852cad81b74d2dda2de3cd
-vendor/lib64/libqtigef.so|70df5848c061154e4c33b147e06d4979e2391b5e
-vendor/lib64/libtinycompress.so|8d670f7c3079e96b5a36945e95082104876dd64a
-vendor/lib64/libtinycompress_vendor.so|74909f72ee8ebb01c2f4ef717e902055272a5917
-vendor/lib64/soundfx/libaudiopreprocessing.so|28e2f7f8ab01a6cc8bc60a278e93704755121f49
-vendor/lib64/soundfx/libqcbassboost.so|0d2afd6f2c5b9aa2397f3e1cb3287bf906cf8fb6
-vendor/lib64/soundfx/libqcvirt.so|bb046694512d412d6a04bd95ccb2b573454d9717
+# Audio - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
+vendor/bin/audioflacapp|8ab77a8042b52a128d5d756e23afac03b0101728
+vendor/lib/libacdb-fts.so|679f4d3b189e56b01e0ec5ae2955d19f88b37655
+vendor/lib/libacdbloader.so|f0d844e545e3904b5cf527b460078c198f9d53d9
+vendor/lib/libacdbrtac.so|2fcc92c30d9f3335533453d466f7aee34db5b32e
+vendor/lib/libadiertac.so|1f2d53c0727abd4ccda9da787e92a396993ccd1f
+vendor/lib/libadm.so|a5e6c65b7133440b4550234db4454e4c81627f66
+vendor/lib/libaudcal.so|97776b794a73dc9e28a15e81dee91054b489bd23
+vendor/lib/libaudioalsa.so|58feb2c5cbc4ac6e23ef4896c87785bed8db3c80
+vendor/lib/libaudioconfigstore.so|3193c47f02c6cd95a7de7f90e43cf58cf354048e
+vendor/lib/libaudioparsers.so|a39f1f6e789547f63b7e2369d73b29876763d68d
+-vendor/lib/libaudio_log_utils.so|9c10e18c405733e409a6d4f21bc381d2f860582d
+vendor/lib/libdrc.so|303d67b5bfea162ae994d3817de317258035c42a
+vendor/lib/libqtigef.so|fbb307c0da385bf09cbdef714e8fc1ecfc7ba6fd
+vendor/lib/libsurround_3mic_proc.so|84a4d84fcf567554fb5174fc6d41310d864e5f8e
+vendor/lib/soundfx/libaudiopreprocessing.so|310ae9609312b9992773fd96126e0578c7a2aaa5
+vendor/lib/soundfx/libqcbassboost.so|7d11a8f3e4e5a4011f3900cf2077c87e57aac229
+vendor/lib/soundfx/libqcreverb.so|7dccd8c56bae92d4dc291e8c7c814448cb06fdc1
+vendor/lib/soundfx/libqcvirt.so|7d1f23427602be657b2ae3f8bbacc0f2c7073903
+vendor/lib64/libacdb-fts.so|a9281c41bc18064dba71db3d9e3516ee25326312
+vendor/lib64/libacdbloader.so|2cc6428af5119faee626d60cd5c743ab50515fab
+vendor/lib64/libacdbrtac.so|bb4e82eb5f2c2177944a0709283341552748648e
+vendor/lib64/libadiertac.so|4729e723ab7c6642fb48e26a801e4c7b480fe481
+vendor/lib64/libaudcal.so|4f7d53d3b4d6a91b9ebf9c0cb5f90a27a837c2b5
+vendor/lib64/libaudioalsa.so|534d4dc07fecea0611273c745721b1ed2015a3a3
+vendor/lib64/libaudioconfigstore.so|5c044fc8ea1fb3c08e1c08a17f0512f5104e3c11
+vendor/lib64/libaudioparsers.so|1463c5ee0f2f040835386d9ccb4a4b010c5bdf58
+-vendor/lib64/libaudio_log_utils.so|e0df302560b8d037c90deed4d225b41e44492c95
+vendor/lib64/libqtigef.so|b3f1cb946809bfe20a4afced73b4fd24c5591421
+vendor/lib64/libtinycompress.so|1d81c62dd13387d13605568d27fc13cb1693f875
+vendor/lib64/soundfx/libaudiopreprocessing.so|63a98e98764eae355edbdd075d4a9001584731b5
+vendor/lib64/soundfx/libqcbassboost.so|7f69dc80f909f1c63832c62f3f861110dc97af37
+vendor/lib64/soundfx/libqcvirt.so|f753774651d461d7d6f62c8d71fae8deef70c106
 
-# Bluetooth - from daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM
--lib/libbtconfigstore.so|cf6430d2616c9c1bbb98080c61ede28160fe1e9c
--lib64/libbtconfigstore.so|a65efb84466346cfcb92cef590f0bfb4bd03adf5
-vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|378ad8ce95651b4bf81ad73aaffbdf0666c55432
-vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc|a979981c55f3dcaf6cf2212e71b901ca4d58b959
-vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so|a244ce3acd958c31865e048e0ead9bc54d1c0465
-vendor/lib64/libbtnv.so|ce4e129e4b7ed7a25a663c26139e5efc0ef88215
-vendor/lib64/libbt-hidlclient.so|8941f5c8f9e1422117685b2e76f35ced85b167c0
+# Bluetooth - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
+vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|2401640a10df4de23f704b87c4adab2da9ed111d
+vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc|f4ee3b2da2b08647447869ade86ec63f7340accc
+vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so|9bc15c011f125cd34b5e5ab6b472d16c4285b067
+vendor/lib64/libbtnv.so|07e031527e60ce5e62a5017fd1d7ff83ef1aafcf
+vendor/lib64/libbt-hidlclient.so|1491414e874419d2df1529c511bd48e348cf53a8
 
-# Bluetooth Audio - from daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM
-vendor/lib64/hw/audio.bluetooth_qti.default.so|41fc011c61a572abc8f83d3a23dace98a7d04080
-vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|5728506d9ca992ceef93cec7473034a7eeee98f4
-vendor/lib64/hw/vendor.qti.hardware.bluetooth_sar@1.0-impl.so|76134fb75ff99948e0d00728db058aed8f519c3f
-vendor/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|51b017a7d35d71522319d2a3d5922b53e0f18230
-vendor/lib64/libbluetooth_audio_session_qti.so|ba33d6868daf56ddce6065f2a03be651b16f98df
-vendor/lib64/vendor.qti.hardware.bluetooth_audio@2.0.so|995a8127aea3b2de9efe68a5e5a6a61c80f438e7
-vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so|7cdd376b08b8571e51674e0e61607c6a52a5a24a
-vendor/lib64/vendor.qti.hardware.btconfigstore@1.0.so|42aa6258f3bf4e8ef72b7664f2277db49837e4da
-vendor/lib/hw/audio.bluetooth_qti.default.so|f0f31aee0b22334bc0752486b6c039f2f93f120c
-vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|8a7105c0559b6a255642a336779b105c6dc76623
-vendor/lib/hw/vendor.qti.hardware.bluetooth_sar@1.0-impl.so|5fa61b2a1c8ebc2b1381662cdf13c328ad4d24b4
-vendor/lib/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|95a8de0ea39853d1378a7cf3c8471e7d284257ad
-vendor/lib/libbluetooth_audio_session_qti.so|1b4a17c396d61a52ad374ba22f51739426fec04f
-vendor/lib/vendor.qti.hardware.bluetooth_audio@2.0.so|235d8dc80e335a9c323f2ce395cb09b297493025
-vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so|0976fd28359b218cd041aca3fb03acde045aa760
-vendor/lib/vendor.qti.hardware.btconfigstore@1.0.so|b849985a2fc292120a26ba7649addd3bb6e0de1e
+# Bluetooth Audio - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
+vendor/lib64/hw/audio.bluetooth_qti.default.so|e628e65d5c07c81ff96783217f8aaf46702aa992
+vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|b66dd9afad70780943187074abb332f84c6734d7
+vendor/lib64/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so|a97a6c330c932176acee0bce820c6e737778aed4
+vendor/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|2dd88fe287eb63058b5d2fe19277439b120882d2
+vendor/lib64/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so|5a907028e9f5c570e06dfae94d339e6aae523e29
+vendor/lib64/libbluetooth_audio_session_qti.so|9260e1e8011a68205474299dbb10ffcfeb34ee3a
+vendor/lib64/vendor.qti.hardware.bluetooth_audio@2.0.so|e09bf6e72e7f1765078f681cedea5c966806a52c
+vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so|d1443e04e24cb45dd06f5d222b22a699c9e82cb1
+vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so|1671815a79dab0fde9248d0851085ec1ab314f64
+vendor/lib64/vendor.qti.hardware.btconfigstore@1.0.so|dd30ba0e9d5ef24e974447a5103fd49f472d0d23
+vendor/lib64/vendor.qti.hardware.btconfigstore@2.0.so|9913ea06cde1af7f8e2aebf7962afebedd41727c
+vendor/lib/hw/audio.bluetooth_qti.default.so|8184989dcd81bc4fffd974b18491b4d608938e9c
+vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|d53d5f5ba35b192d90e4c2c5613207100807d874
+vendor/lib/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so|e3ee09937aa7b070abf05c9b9d272a8cef4d5bd5
+vendor/lib/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|79c92916fb18c558984804f2ac90bf5a8e41ee28
+vendor/lib/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so|2e76888d155913264d9c4adc026d14e6ab0a681b
+vendor/lib/libbluetooth_audio_session_qti.so|bb3e4af983225626aa6e7b52a23038330b3d0fbd
+vendor/lib/vendor.qti.hardware.bluetooth_audio@2.0.so|5ccf07bee18a42db39b618b561a64e0355cdfd81
+vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so|82b2b1bd3a84d034e127480257e13f937e656c03
+vendor/lib/vendor.qti.hardware.bluetooth_sar@1.1.so|69c513dd423649683f2d3132682cea6f66d3223d
+vendor/lib/vendor.qti.hardware.btconfigstore@1.0.so|4e8022d86969c6de405f9c479f656bfeee941bea
+vendor/lib/vendor.qti.hardware.btconfigstore@2.0.so|6b643812f57a31f450f2351cc87b058a10536d7c
 
 # Camera - from U-FEEL-PRIME-V01.31.OPE.20-[Nougat-7.1]-P7201AN
 vendor/bin/mm-qcamera-daemon|2012e52f8efbe4abc3e4250c497eddde432d426a
@@ -358,11 +360,28 @@ vendor/lib64/libsecureui_svcsock.so|2232f56927964f10d41868919d94711930d50ed0
 vendor/lib64/libssd.so|1e2243f7eb5d36544a5ae51166d748b7b30e63c6
 vendor/lib64/libtzdrmgenprov.so|849596eb20b25aca8238d733b2b964aca8edb1a0
 
-# FM - from daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM
-vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so|5da074c88802633f64e2b9fe2013e2271f707e7b
-vendor/lib/vendor.qti.hardware.fm@1.0.so|a090651122fcad265ae7562c88dca746f893ad36
-vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|9d27a7a6cea72a48739e741e749bff2e194d4510
-vendor/lib64/vendor.qti.hardware.fm@1.0.so|fc7ad886f82089edf36509865fadac17a7340f32
+# DRM - from Redmi/lmi/lmi:11/RKQ1.200826.002/20.10.19:user/release-keys
+vendor/lib64/libops.so|b2223e64db9d8f84262da7a8621013d3c63b6c98
+vendor/lib64/libspl.so|0fa8c0711f72fc8a914dce044cf8dddd79ee62e1
+
+# DRM - Widevine - from Redmi/lmi/lmi:11/RKQ1.200826.002/20.10.19:user/release-keys
+vendor/bin/hw/android.hardware.drm@1.3-service.widevine|2230b35e2d067ba92496cae131b00fd1bbc812c2
+vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc|2bdd5e401b24863f697ffe83b9628744e368c5c2
+vendor/lib64/libwvhidl.so|68d257f6c4b409f71f80c231789d9951f71308a8
+-vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ea7038bdc341cddc3f7803367e47c91c2ee6672f
+
+# DSP service - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
+vendor/bin/dspservice|c7809e32581d5c6efac65a3a7689f43526c17bb8
+vendor/etc/init/vendor.qti.hardware.dsp@1.0-service.rc|fbf2bb38ca6bdddf98c7123da9e1f263a4eec55f
+vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy|f060101b26d3674bb173e5fc95e118f56a8ac15d
+vendor/lib/vendor.qti.hardware.dsp@1.0.so|41bdb4d9eda88cebfbc3bc6db64ff875416dbf5a
+vendor/lib64/vendor.qti.hardware.dsp@1.0.so|5f30d9c5fff738e6194a36a5b93372fa32ec0471
+
+# FM - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
+vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so|af1d9fea6adaa4d576884f59b0577c54a5c28d02
+vendor/lib/vendor.qti.hardware.fm@1.0.so|7288b0ee5759bf2bbebba9b76b274aa4faa9c4df
+vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|2bf5898dd78591104f7e9b154a21f19568f2d76e
+vendor/lib64/vendor.qti.hardware.fm@1.0.so|17e86e9a2054db733d955fcf1066f6e06a44fb21
 
 # Gatekeeper - from T89626AA3-user 11 RKQ1.200928.002 00WW_3_140 release-keys
 vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti|de1e8d026b16255040dbe6eb67faa73c9b656553
@@ -528,27 +547,23 @@ vendor/firmware/a530v3_seq.fw2|8963a53acc689725dee4b22881a4dd4b80e5def8
 vendor/lib64/hw/keystore.msm8937.so|9660e1c13a3589114cf18db58e5b3c3c9e14059b
 vendor/lib64/hw/keystore.msm8953.so:vendor/lib64/hw/keystore.msm8937.so|9660e1c13a3589114cf18db58e5b3c3c9e14059b
 
-# Listen - from X00RD - QKQ1.191002.002-17.07.2003.405-20200330
-vendor/lib/hw/sound_trigger.primary.msm8937.so|991e0be9c5743d5d3394eb2f4b82740c3c0616f7
-vendor/lib/hw/sound_trigger.primary.msm8953.so:vendor/lib/hw/sound_trigger.primary.msm8937.so|991e0be9c5743d5d3394eb2f4b82740c3c0616f7
-vendor/lib/libadpcmdec.so|be5fdf08a08b635816381e61b6bbf2874c62f613
-vendor/lib/libgcs-calwrapper.so|96178681d6704bb457f006f9fa8b6bcc71513c8a
-vendor/lib/libgcs-ipc.so|05f718e7bf68b31ca1199f8812046234c00d9a3e
-vendor/lib/libgcs-osal.so|2daf1f34a595d218af88c79285743bafa2145e20
-vendor/lib/libgcs.so|8aac6d5adc83d1cf4b7346304b350b2a18920c44
-vendor/lib/liblistenjni.so|1a7273acbd33b6e5d3c7dd0957da2fdc903acc85
-vendor/lib/liblistensoundmodel2.so|d645cf28571a6cbe867b15dd1665822c713ec35e
-vendor/lib/libsmwrapper.so|efed6475b26cafc15fed591a9aaa68b38cf6a37b
-vendor/lib/vendor.qti.voiceprint@1.0.so|b70091c7b738394468b7d732df283d23a3975f46
-vendor/lib64/hw/sound_trigger.primary.msm8937.so|4ff47ab34dfd457a57a5bede70769fbbc63c240e
-vendor/lib64/hw/sound_trigger.primary.msm8953.so:vendor/lib64/hw/sound_trigger.primary.msm8937.so|4ff47ab34dfd457a57a5bede70769fbbc63c240e
-vendor/lib64/libgcs-calwrapper.so|4d93fcb19b26033d4c76a8db04963e3be930b254
-vendor/lib64/libgcs-ipc.so|5854e7814fdcedcb2cb859858df0bce835afc3b3
-vendor/lib64/libgcs-osal.so|d2a09b2298c9cd1daa1d6573f244e5286fd984eb
-vendor/lib64/libgcs.so|e15de14c593069ea32dbdc304a3d604be8cc0896
-vendor/lib64/liblistenjni.so|4814b09f1d0c8d17516d1c6df7687b992311a884
-vendor/lib64/liblistensoundmodel2.so|13b37cbd54943834676872f534e6a51505bbcea7
-vendor/lib64/vendor.qti.voiceprint@1.0.so|aeca80d0859dd1084b4a6585779d79b48ae9aa76
+# Listen - from T89571AA3-user-11-RKQ1.200928.002-00WW_3_150-release-keys
+vendor/lib/hw/sound_trigger.primary.msm8937.so|2eda0c18601de3aafd6cdfda7f20d8411162db03
+vendor/lib/libadpcmdec.so|7a38d6b28b27cf663681ad077614a03164418f91
+vendor/lib/libgcs-calwrapper.so|e7365d613ef0e3c49dece69a772fd1ae117be334
+vendor/lib/libgcs-ipc.so|8d09a80af40b1a3cfa4d7346fb919c8d5d19cfad
+vendor/lib/libgcs-osal.so|2fc9a8ac335c37b8cefc8dce0abca1a478f96f65
+vendor/lib/libgcs.so|9019d1d300e5cf9f65c543cf553bacdce2591e98
+vendor/lib/liblistensoundmodel2.so|f3a86073935c191d1baf63883d24a1c42534d29d
+vendor/lib/libsmwrapper.so|f0ee761c02c888e77d947bb87d162d9379bc1530
+vendor/lib/vendor.qti.voiceprint@1.0.so|6d01d0ee92d24864c3dc9555ebaa7bc639b33750
+vendor/lib64/hw/sound_trigger.primary.msm8937.so|100eec8226e4aefacc2aafd8afa1723063a28336
+vendor/lib64/libgcs-calwrapper.so|1e3af53a21d2dd519ecef8cd939c4c897f1cfdb1
+vendor/lib64/libgcs-ipc.so|7ca1a82c580f2e78460adb680bddfa3912bcf95a
+vendor/lib64/libgcs-osal.so|e5cd3ed3385b3797a67a8f4519eb59d63ae0a5d4
+vendor/lib64/libgcs.so|e4c119e4e2dd50428869545d9acd3ec3cd16f7aa
+vendor/lib64/liblistensoundmodel2.so|3dcbf57b741b1bc056e3ea1a2c7ebc83da42621d
+vendor/lib64/vendor.qti.voiceprint@1.0.so|d4acc1390cd13d2d39d06c65ea2d1f80b3394e19
 
 # Media - from T89626AA3-user 11 RKQ1.200928.002 00WW_3_140 release-keys
 system_ext/lib/libavenhancements.so|ab02d5ed827c9e9db51050ba10d31171d7c8beb7
@@ -837,7 +852,7 @@ system_ext/lib64/libembmstinyxml.so|cb72973ce2529f71a48dfb96c7bf2b35aa736ea9
 vendor/bin/imsdatadaemon|56e1ab6f6f6679261bcd36dd218097632da866b6
 vendor/bin/imsqmidaemon|0e5cf08e7cbd4e34fb69e6644a8c7d5e6715c306
 
-# Radio (IMS) - from LT89626AA3-user 11 RKQ1.200928.002 00WW_3_140 release-keys
+# Radio (IMS) - from T89626AA3-user 11 RKQ1.200928.002 00WW_3_140 release-keys
 -system_ext/app/imssettings/imssettings.apk|f14df05c3eb9459f4ebd9ce64cae41ba7185334f
 system_ext/lib64/com.qualcomm.qti.imscmservice@1.0.so|41a6b6ad78341405de60c1fd3c8f202fb3908329
 system_ext/lib64/com.qualcomm.qti.imscmservice@2.0.so|7ec78e4d8fd428ac7fab2b12f34dd0d65b5e53db
@@ -938,16 +953,6 @@ vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|cd060cfb909be6d1cb2aabd5cd53fffa0
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|960561ba01e28777e099294fb0a9a749e2b2a775
 system_ext/lib/vendor.qti.hardware.tui_comm@1.0.so|6afacbcc0ba71314ab1c4a94222e835d7e885433
 system_ext/lib64/vendor.qti.hardware.tui_comm@1.0.so|df4d01ebeb8d8da1323002143d37e9d4b5049cb4
-
-# DRM - from Redmi/lmi/lmi:11/RKQ1.200826.002/20.10.19:user/release-keys
-vendor/lib64/libops.so|b2223e64db9d8f84262da7a8621013d3c63b6c98
-vendor/lib64/libspl.so|0fa8c0711f72fc8a914dce044cf8dddd79ee62e1
-
-# DRM - Widevine - from Redmi/lmi/lmi:11/RKQ1.200826.002/20.10.19:user/release-keys
-vendor/bin/hw/android.hardware.drm@1.3-service.widevine|2230b35e2d067ba92496cae131b00fd1bbc812c2
-vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc|2bdd5e401b24863f697ffe83b9628744e368c5c2
-vendor/lib64/libwvhidl.so|68d257f6c4b409f71f80c231789d9951f71308a8
--vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ea7038bdc341cddc3f7803367e47c91c2ee6672f
 
 # Wi-Fi - from T89626AA3-user 11 RKQ1.200928.002 00WW_3_140 release-keys
 vendor/bin/wcnss_service|164deba2772678de8500c11be4e82dc93766ae79

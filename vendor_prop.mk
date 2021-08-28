@@ -165,7 +165,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
 ro.vendor.extension_library=libqti-perfd-client.so \
 ro.vendor.qti.sys.fw.bg_apps_limit=60 \
 ro.vendor.at_library=libqti-at.so \
-ro.vendor.gt_library=libqti-gt.so
+ro.vendor.gt_library=libqti-gt.so \
+ro.min_freq_0=200000 \
+ro.min_freq_4=200000
 
 # Misc
 PRODUCT_PROPERTY_OVERRIDES += \
